@@ -13,7 +13,7 @@ Backend: Business logic handling user authentication and order processing.
 
 Database: Persistent storage for user data and transactions.
 
-The AWS Load Balancer Controller integrates with Kubernetes Ingress resources to manage external HTTP/S traffic, providing secure and efficient routing to services within the cluster.
+The AWS Load Balancer Controller integrates with Kubernetes Ingress resources to manage external HTTP traffic, providing secure and efficient routing to services within the cluster.
 <img width="813" height="757" alt="image" src="https://github.com/user-attachments/assets/ddc0a09e-f110-4112-a99c-9903885c34c4" />
 
 
