@@ -4,7 +4,7 @@
 Kubernetes End-to-End Project on EKS with ALB Ingress Controller
 This repository demonstrates the deployment of a scalable, production-ready e-commerce application using Amazon Elastic Kubernetes Service (EKS) and the AWS Load Balancer Controller (ALB Ingress Controller). The project encompasses the full lifecycle—from provisioning the EKS cluster to deploying microservices and exposing them via an Application Load Balancer (ALB).
 
-📌 Project Overview
+## Project Overview
 This project guides you through setting up an EKS cluster and deploying a multi-tier e-commerce application with the following components:
 
 Frontend: User interface for product browsing and cart management.
